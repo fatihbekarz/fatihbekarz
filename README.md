@@ -6,6 +6,6 @@ A passionate cyber security engineer from Turkey.
 
 ## Languages and tools
 
-- **Languages and scripting** — Bash, Dart, Go, Python
-- **Frameworks** — Django, Flutter
+- **Languages and scripting** — Bash, Go, Python, Rust
+- **Frameworks** — Django
 - **Systems and tooling** — Arduino, Git, Linux, NGINX, PostgreSQL
