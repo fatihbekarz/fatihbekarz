@@ -1,5 +1,5 @@
 <h1 align="center">Fatih Bekar</h1>
-<p align="center"><strong>Cybersecurity · Linux · Automotive Electronics</strong></p>
+<p align="center"><strong>Cybersecurity · Linux · Embedded Systems</strong></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/fatihbekar/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/fatihbekarz?tab=repositories">Repositories</a> &nbsp;·&nbsp;
@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm a cybersecurity engineer from Türkiye. I enjoy working with Linux and the command line. My interest in troubleshooting extends to cars, where I work with diagnostic tools, a multimeter, and wiring.
+I'm a cybersecurity engineer from Türkiye. I enjoy working with Linux and the command line. I’m also interested in embedded systems and hands-on electronics with Arduino.
 
 ## Areas of interest
 
@@ -16,7 +16,7 @@ I'm a cybersecurity engineer from Türkiye. I enjoy working with Linux and the c
 | :--- | :--- |
 | **Cybersecurity** | System security and understanding how software and infrastructure fail. |
 | **Linux & automation** | Shell scripting, command-line tools, and automating repetitive tasks. |
-| **Automotive electronics** | OBD diagnostics, automotive wiring, and electrical fault-finding. |
+| **Embedded systems** | Microcontrollers and Arduino. |
 
 ## Languages and tools
 
