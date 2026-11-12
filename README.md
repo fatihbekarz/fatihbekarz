@@ -1,11 +1,27 @@
-# Hi, I'm Fati
+<h1 align="center">Fatih Bekar</h1>
+<p align="center"><strong>Cybersecurity · Linux · Automotive Electronics</strong></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/fatihbekar/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/fatihbekarz?tab=repositories">Repositories</a> &nbsp;·&nbsp;
+  <a href="https://github.com/fatihbekarz#contribution-activity">Contributions</a>
+</p>
 
-A passionate cyber security engineer from Turkey.
+## About me
 
-[LinkedIn](https://www.linkedin.com/in/fatihbekar/) · [GitHub repositories](https://github.com/fatihbekarz?tab=repositories) · [GitHub contributions](https://github.com/fatihbekarz#contribution-activity)
+I'm a cybersecurity engineer from Türkiye. I enjoy working with Linux and the command line. My interest in troubleshooting extends to cars, where I work with diagnostic tools, a multimeter, and wiring.
+
+## Areas of interest
+
+| Area | What I explore |
+| :--- | :--- |
+| **Cybersecurity** | System security and understanding how software and infrastructure fail. |
+| **Linux & automation** | Shell scripting, command-line tools, and automating repetitive tasks. |
+| **Automotive electronics** | OBD diagnostics, automotive wiring, and electrical fault-finding. |
 
 ## Languages and tools
 
-- **Languages and scripting** — Bash, Go, Python, Rust
-- **Frameworks** — Django
-- **Systems and tooling** — Arduino, Git, Linux, NGINX, PostgreSQL
+| Category | Stack |
+| :--- | :--- |
+| **Languages & scripting** | <kbd>Bash</kbd> <kbd>Go</kbd> <kbd>Python</kbd> <kbd>Rust</kbd> |
+| **Web & data** | <kbd>Django</kbd> <kbd>NGINX</kbd> <kbd>PostgreSQL</kbd> |
+| **Systems & electronics** | <kbd>Linux</kbd> <kbd>Git</kbd> <kbd>Arduino</kbd> |
